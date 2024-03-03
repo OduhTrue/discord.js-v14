@@ -1,5 +1,4 @@
 const Discord = require("discord.js")
-const { ActionRowBuilder, ModalBuilder, TextInputBuilder, TextInputStyle } = require("discord.js")
 const mongoose = require('mongoose')
 const config = require("./config.json")
 
